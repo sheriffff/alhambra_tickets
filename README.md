@@ -4,6 +4,6 @@
 
 Quieres visitar la preciosa Alhambra pero no quedan tickets? 
 
-Un robot lo puede hacer por tí!
+Un robot puede sacarlos por tí! Estará atento a que salgan tickets nuevos!
 
 (Desarrollado en ~2020)
